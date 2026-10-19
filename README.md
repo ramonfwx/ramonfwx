@@ -7,6 +7,10 @@
 - 🎨 Designer gráfico, editor de vídeo e piloto de drone
 - 📣 Marketing digital e tráfego pago
 
+### 🚀 Projeto em destaque
+
+**[Linkodz](https://linkodz.com.br)** — meu site de link na bio: crie sua página com todos os seus links em um só lugar.
+
 ### 🛠️ Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,3 +25,4 @@ Photoshop · CorelDRAW · Premiere Pro · Identidade visual · Pilotagem de dron
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-lima-1ab40730b)
+[![Linkodz](https://img.shields.io/badge/linkodz.com.br-111111?style=for-the-badge&logo=linktree&logoColor=white)](https://linkodz.com.br)
