@@ -3,7 +3,7 @@
 **Fisioterapeuta** (CREFITO-12 467796-F) e **desenvolvedor com IA**, de Itaituba – Pará, Brasil.
 
 - 🩺 Pós-graduando em Fisioterapia em Terapia Intensiva (UNAMA), Fisioterapia Neurofuncional e Fisioterapia Traumato-Ortopédica (Faculdade Líbano)
-- 💻 Desenvolvo sites e sistemas com auxílio de inteligência artificial
+- 💻 Desenvolvo sites e sistemas 
 - 🎨 Designer gráfico, editor de vídeo e piloto de drone
 - 📣 Marketing digital
 
