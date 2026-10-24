@@ -9,7 +9,7 @@
 
 ### 🚀 Projeto em destaque
 
-**[Linkodz](https://linkodz.com.br)** — meu site de link na bio: crie sua página com todos os seus links em um só lugar.
+**[Linksouw](https://linksouw.com.br)**
 
 ### 🛠️ Tecnologias
 
